@@ -1,6 +1,7 @@
 import Button from '@mui/material/Button'
+import ImageContainer from './ImageContainer'
 
-type Props = {
+    type Props = {
     onClick: React.MouseEventHandler<HTMLButtonElement>;
     showMarkdown: boolean;
     theme: string;
@@ -21,6 +22,7 @@ const Footer = ({ onClick, showMarkdown, theme }: Props) => (
                     : <Button color='primary' onClick={onClick} variant="contained">Show Markdown</Button>
             }
         </div>
+        <ImageContainer />
     </footer>
 )
 
