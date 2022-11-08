@@ -1,6 +1,6 @@
 ## Info
 
-Live link to project: evitanrelta.github.io/markgh
+Live link to project: [evitanrelta.github.io/markgh](evitanrelta.github.io/markgh)
 
 This was a pair-collaboration project, and the main project is on my partner's page.&nbsp;
 
@@ -29,12 +29,9 @@ Online markdown editor for&nbsp; <img src="./assets/github_logo.png" height="25"
 *   Edit it like a **_Word document_**
 ```
 
-Additional Features:
+### Additional Features:
 
-Import and push markdown files directly via GitHub API
-
-Save multiple files/states, along with file management system
-
-Hotkeys
-
-Light/Dark Themes
+1.  Import and push markdown files directly via GitHub API
+2.  Save multiple files/states, along with file management system
+3.  Hotkeys
+4.  Light/Dark Themes
