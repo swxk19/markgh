@@ -1,6 +1,6 @@
 ## Info
 
-This was a pair-collaboration project, and the main project page is on my partner's page.&nbsp;
+This was a pair-collaboration project, and the main project is on my partner's page.&nbsp;
 
 Please visit the main page for latest developments: [https://github.com/EvitanRelta/markgh](https://github.com/EvitanRelta/markgh)
 
