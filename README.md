@@ -1,6 +1,6 @@
 ## Info
 
-Live link to project: [evitanrelta.github.io/markgh](evitanrelta.github.io/markgh)
+Live link to project: [https://evitanrelta.github.io/markgh/](https://evitanrelta.github.io/markgh/)
 
 This was a pair-collaboration project, and the main project is on my partner's page.&nbsp;
 
